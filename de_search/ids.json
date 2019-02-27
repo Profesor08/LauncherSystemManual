@@ -1,0 +1,22 @@
+{
+	"1": ["Начальная страница", "index.htm"],
+	"2": ["[P4F] Launcher System", "_p4f__launcher_system.htm"],
+	"3": ["Введение", "vvedenie.htm"],
+	"4": ["Интерфейс", "interfejs.htm"],
+	"5": ["Launcher Configurator (LC)", "launcher_configurator__lc_.htm"],
+	"6": ["Основные настройки", "osnovnye_nastrojki.htm"],
+	"7": ["Редактор дизайна", "redaktor_dizajna.htm"],
+	"8": ["Локализация сообщений", "lokalizatsiya_soobshchenij.htm"],
+	"9": ["Update Server (UpdSrv)", "update_server__updsrv_.htm"],
+	"10": ["Основное обновление", "osnovnoe_obnovlenie.htm"],
+	"11": ["Мини обновление", "mini_obnovlenie.htm"],
+	"12": ["Настройки", "nastrojki.htm"],
+	"13": ["Загрузка библиотек", "zagruzka_bibliotek.htm"],
+	"14": ["Строка состояния", "stroka_sostoyaniya.htm"],
+	"15": ["Connect Server", "connect_server.htm"],
+	"16": ["Журналирование ", "zhurnalirovanie_.htm"],
+	"17": ["Настройки и статистика ", "nastrojki_i_statistika_.htm"],
+	"18": ["Установка", "ustanovka.htm"],
+	"19": ["Настройка LC", "nastrojka_lc.htm"],
+	"20": ["Настройка Update Server (UpdSrv.exe)", "nastrojka_update_server__updsrv_exe_.htm"]
+}

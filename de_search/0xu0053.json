@@ -1,0 +1,22 @@
+[
+	{ "s": "SAVE", "p": [19, 20] },
+	{ "s": "SCREENSHOT", "p": [12] },
+	{ "s": "SCREENSHOT1", "p": [12] },
+	{ "s": "SCREENSHOT1.JPG", "p": [12] },
+	{ "s": "SCREENSHOT2222", "p": [12] },
+	{ "s": "SCREENSHOT2222.JPG", "p": [12] },
+	{ "s": "SCREENSHOTBYVASIAPYPKIN", "p": [12] },
+	{ "s": "SCREENSHOTBYVASIAPYPKIN.EXE", "p": [12] },
+	{ "s": "SERVER", "p": [20, 17, 15, 9, 12, 18] },
+	{ "s": "SERVER'A", "p": [20] },
+	{ "s": "SIZE", "p": [20] },
+	{ "s": "SKIN", "p": [19] },
+	{ "s": "SKIN(Т.Н", "p": [19] },
+	{ "s": "SOCKET", "p": [20, 14] },
+	{ "s": "SOCKETS", "p": [12] },
+	{ "s": "SOUND", "p": [10] },
+	{ "s": "START", "p": [12, 20] },
+	{ "s": "STARTS", "p": [20] },
+	{ "s": "STATISTIC", "p": [12] },
+	{ "s": "SYSTEM", "p": [2, 3, 1] }
+]

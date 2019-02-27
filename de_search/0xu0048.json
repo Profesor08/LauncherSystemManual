@@ -1,0 +1,8 @@
+[
+	{ "s": "HEIGHT", "p": [19] },
+	{ "s": "HOST", "p": [20] },
+	{ "s": "HTTP", "p": [20, 12, 11, 10, 19, 7] },
+	{ "s": "HTTP://MYIP/MYGAME", "p": [20] },
+	{ "s": "HTTP://MYIP/MYGAME/GAME.EXE", "p": [20] },
+	{ "s": "HTTP://MYSITE.RU/FULLCLIENT", "p": [11, 10] }
+]

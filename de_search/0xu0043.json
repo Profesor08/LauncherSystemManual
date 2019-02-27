@@ -1,0 +1,16 @@
+[
+	{ "s": "C", "p": [19, 6] },
+	{ "s": "C:\\MMOGAME", "p": [19, 6] },
+	{ "s": "C:\\MMOGAME\\MYGAME", "p": [6] },
+	{ "s": "C:\\MMOGAME\\MYGAME\\IMAGES\\MYIMAGE.JPG", "p": [19] },
+	{ "s": "C:\\MMOGAME\\MYGAME\\LAUNCHER.EXE", "p": [19, 6] },
+	{ "s": "CHEAT", "p": [12] },
+	{ "s": "CLEAN", "p": [12] },
+	{ "s": "CLIENT", "p": [12, 20] },
+	{ "s": "CONFIGS", "p": [20, 19, 18] },
+	{ "s": "CONFIGS(LC", "p": [18] },
+	{ "s": "CONFIGURATOR", "p": [5] },
+	{ "s": "CONNECT", "p": [17, 15] },
+	{ "s": "CONTROL", "p": [20] },
+	{ "s": "CONTROLS", "p": [19] }
+]
